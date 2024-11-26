@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def meal(request):
-    return HttpResponse("Hello, HungerFree Cork!") 
+    return HttpResponse("Hello, HungerFree Cork platform is coming soon!") 
